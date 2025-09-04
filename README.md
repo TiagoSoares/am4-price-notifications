@@ -2,10 +2,27 @@
 
 Stay up to date with real-time **fuel** and **CO₂ quota** price updates from *Airline Manager 4*, delivered directly via [ntfy](https://ntfy.sh).
 
-## 🔔 Current Live Price Watchers (last 24h)
+***THIS IS COMPLETELY FREE***
 
-![CO2 Watchers](https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_co2&style=for-the-badge)
-![Fuel Watchers](https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_fuel&style=for-the-badge)
+<table width="100%">
+  <tr>
+    <th> 🔔 Current Live Price Watchers (last 24h) </th>
+    <th> Demo </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_co2&style=for-the-badge"
+        alt="drawing" width="300" />
+      </br>
+      <img src="https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_fuel&style=for-the-badge"
+        alt="drawing" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c047b989-3505-4d9b-87ec-dc15e924dffe"
+        width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
