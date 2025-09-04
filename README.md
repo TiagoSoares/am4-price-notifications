@@ -13,7 +13,6 @@ Stay up to date with real-time **fuel** and **CO₂ quota** price updates from *
     <td>
       <img src="https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_co2&style=for-the-badge"
         alt="drawing" width="300" />
-      </br>
       <img src="https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_fuel&style=for-the-badge"
         alt="drawing" width="300" />
     </td>
