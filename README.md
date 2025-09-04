@@ -2,6 +2,11 @@
 
 Stay up to date with real-time **fuel** and **CO₂ quota** price updates from *Airline Manager 4*, delivered directly via [ntfy](https://ntfy.sh).
 
+## 🔔 Current Live Price Watchers (last 24h)
+
+![CO2 Watchers](https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_co2&style=for-the-badge)
+![Fuel Watchers](https://img.shields.io/endpoint?url=https://am4.hexolo.host/badge/am4_fuel&style=for-the-badge)
+
 ---
 
 ## ✅ Option 1: Mobile Push Notifications (Recommended)
